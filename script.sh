@@ -1,2 +1,2 @@
-python3 -m http.server
+curl ifconfig.co
 

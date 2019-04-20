@@ -11,8 +11,8 @@ You can train the model yourself by `python mnist.py --train` and you can switch
 `python mnist.py --train --no_pretrained`
  
 ## predict_interface_usage.py
- There is a test image in `img/` with the name `test_2.png` so you can run:
- `python predict_interface_usage.py test_2` to predict the handwritten digits.
+ There is a test image in `img/` with the name `1488.png` so you can run:
+ `python predict_interface_usage.py 1488` to predict the handwritten digits.
 
  `SUCCESS` will write an output with predictions to the command
  prompt and it will generate an image with the predictions in `/pro-img/`
